@@ -1,7 +1,7 @@
 # Exploring the Potential of Deep Learning in Pathological Gait Detection
 
 ## Overview
-This repository contains the code for my research on utilizing Deep Learning algorithms, including Convolutional Neural Networks (CNNs), Long Short-Term Memory networks (LSTMs), and their hybrids, for gait pattern classification. The project focuses on analyzing skeletal and silhouette images, as well as a multimodal approach combining both, to identify normal and abnormal gaits.
+This repository contains the code for my research on utilizing Deep Learning algorithms, including Convolutional Neural Networks (CNNs), Long Short-Term Memory networks (LSTMs), and their hybrids, for gait classification. The project focuses on analyzing skeletal and silhouette images, as well as a multimodal approach combining both, to identify normal and abnormal gaits.
 
 ## Dataset
 The models were trained and tested on publicly available datasets. 
