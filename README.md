@@ -17,7 +17,9 @@ This project aims to investigate several critical aspects of gait classification
 The models were trained and tested on publicly available datasets. 
 
 ## Key Findings
-- **Skeletal vs. Silhouette Images**: Skeletal images provided more accurate diagnostic information compared to silhouette and multimodal images.
-- **Model Performance**: CNN-based models showed superior performance and greater data efficiency over LSTM-based and hybrid models.
+- **Optimal Data Volume**: Identified that approximately 20 skeletal images per folder per individual is an efficient sample size for training, balancing accuracy and data economy.
+- **Efficacy of Image Types**: Demonstrated that skeletal images outperform silhouette and multimodal methods in diagnostic accuracy.
+- **Model Performance Comparison**: Found CNN-based models to be more efficient and accurate compared to LSTM-based and hybrid models.
+- **Hybrid Model Exploration**: Investigated hybrid models combining CNNs and LSTMs, which showed potential but did not consistently outperform pure CNN or LSTM models.
 - **Limitations**: The study encountered limitations including dataset representativeness, data imbalances, computational resources, and potential exploration of other Deep learning architectures.
 
